@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -125px 0 0 -125px;
+}
+
+.btn {
+    background: #4077f3;
+    border: none;
+    border-radius: 15px;
+    color: #e4e5ea;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 30px;
+    text-align: center;
+}
+
+.icon{
+    font-size:150px;
+    text-align: center;
+}
